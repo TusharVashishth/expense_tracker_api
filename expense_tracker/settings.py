@@ -76,7 +76,6 @@ WSGI_APPLICATION = 'expense_tracker.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
-# 'postgres://msiprihz:P-m2WPg94I-CtFVsZ2GhPB1Ku8MN2Coz@suleiman.db.elephantsql.com:5432/msiprihz'
 
 DATABASES = {
     'default': {
